@@ -1,0 +1,9 @@
+Check,Frame Size,Frame Length mm,Min,Max
+Long Frame,30,2278,120,140
+Long Frame,33,2272,110,130
+Short Frame,30,1134,45,65
+Short Frame,33,1133,45,65
+JB Positive,0,,5.25,6
+JB Middle,0,,4.5,4.75
+JB Negative,0,,5.25,6
+Potting Ratio,0,,4.7,5.3
